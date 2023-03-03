@@ -22,12 +22,12 @@ public class OnlineBookStore {
 		System.out.println("=================//******** Here you find your favourite topics *********\\=====================");
 		System.out.println("============***** If you already have account you need to select details 1 or 2================");
 		
-		System.out.println("==================  *****  If you are a buyyer select 1 *****==================================");
-		System.out.println("=====================***** If you are a seller just select 2******=============================");
+		System.out.println("==================  *****  If you are a Buyer select 1 *****==================================");
+		System.out.println("=====================***** If you are a Seller just select 2******=============================");
 		System.out.println("=============******** If you don't have an account click 3 to create account********===========");
-		System.out.println("                               1  --->   Buyer                          ");
-		System.out.println("                               2  --->   Seller                         ");
-		System.out.println("                               3  --->   Sign Up                        ");
+		System.out.println("                        Press  1 for >>Buyer>>                          ");
+		System.out.println("                        Press  2 for >>Seller>>                         ");
+		System.out.println("                        Press  3 for >>Sign Up>>                        ");
 		System.out.println("------------------------------------------------------------------------------");
 		System.out.println("______________________________________________________________________________");
 		System.out.print("\t\t!! Enter the option you want: ");
